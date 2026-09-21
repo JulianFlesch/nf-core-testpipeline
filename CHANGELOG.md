@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release of nf-core/testpipeline, created with the [nf-core](https://nf-co.re/) template.
 
+Integration test round 1 for nf-core/actions: this line has deliberate trailing whitespace to fail the pre-commit job.   
+
 ### `Added`
 
 ### `Fixed`
