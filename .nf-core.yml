@@ -4,7 +4,7 @@ ci:
   nf_test_version: "0.9.4"
   max_shards: 7
 lint: {}
-nf_core_version: 3.5.2
+nf_core_version: 4.1.0
 repository_type: pipeline
 template:
   author: nf-core
