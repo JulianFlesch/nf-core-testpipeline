@@ -9,6 +9,8 @@ Initial release of nf-core/testpipeline, created with the [nf-core](https://nf-c
 
 ### `Added`
 
+- Integration test round 3 for nf-core/actions: deliberate lint violation for fix-linting.yml testing.   
+
 ### `Fixed`
 
 ### `Dependencies`
